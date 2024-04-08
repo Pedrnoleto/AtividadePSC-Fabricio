@@ -31,6 +31,7 @@ public class App {
             System.out.println("O aluno está reprovado com a média de: " + result);
         }
 
+        scanner.close();
     }
 
 }
