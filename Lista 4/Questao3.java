@@ -18,7 +18,7 @@ public class App {
         int contapessoas = 0;
         int contagem;
 
-        for (contagem = 1; contagem <= 5; contagem++) {
+        for (contagem = 1; contagem <= 10; contagem++) {
 
             System.out.println("Pessoa: " + contagem);
 
