@@ -25,7 +25,7 @@ public class App {
                     for (int i = 0; i < colunas; i++) {
                         System.out.print("* ");
                     }
-                    System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA ");
+                    System.out.println("");
                 }
 
                 break;
